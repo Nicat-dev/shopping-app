@@ -6,7 +6,6 @@ import az.nicat.shoppingapp.exception.ResourceNotFoundException;
 import az.nicat.shoppingapp.model.dto.UserDto;
 import az.nicat.shoppingapp.model.entity.Role;
 import az.nicat.shoppingapp.model.entity.User;
-import az.nicat.shoppingapp.model.enums.ERole;
 import az.nicat.shoppingapp.model.request.RegisterRequest;
 import az.nicat.shoppingapp.model.request.UpdateUserRequest;
 import az.nicat.shoppingapp.repository.UserRepository;
